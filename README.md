@@ -111,11 +111,7 @@ OpenAI & Deep Learning Research
 
 📩 Contact
 For questions or suggestions, reach out:
-
 📧 Email: abenezeralz659@gmail.com
-
 🔗 LinkedIn: Abenezer Alemayehu LinkedIn
-
 💻 GitHub: Abena-3565 Weather Trend Forecasting
-
 📱 Phone: +251935651441
