@@ -88,13 +88,9 @@ Weather Correlations: Heatmaps of correlations between temperature and other wea
 
 🤝 Contributing
 Contributions are welcome! Please follow these steps:
-
 Fork the repo
-
 Create a new branch (feature-new-idea)
-
 Commit your changes
-
 Submit a Pull Request
 
 📜 License
@@ -102,11 +98,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 💡 Acknowledgments
 Global Weather Repository
-
 Kaggle
-
 TensorFlow/Keras Community
-
 OpenAI & Deep Learning Research
 
 📩 Contact
